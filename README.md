@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @moritzMairinger
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning IT at TGm 
+- 🌱 I’m currently learning IT at TGM 
 - 📫 How to reach me mmairinger2@student.tgm.ac.at
